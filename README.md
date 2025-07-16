@@ -3,6 +3,9 @@
 ## Hi everyone! I am Nick (otherwise known as ToxicroakSR) and I am a computer scientist working on many innovative and fun projects!
 ## My goal is to create projects that will be personally fufiling and inspiring to others.
 ## I graduated from the University of Texas at Austin with a degree in Computer Science on May 10, 2025
+## About This Profile
+## This GitHub account serves as my professional portfolio, highlighting projects relevant to my career in software engineering and AI. Some repositories are forks or curated copies of my personal work maintained under [toxicroakGaming](https://github.com/toxicroakGaming).
+
 ## 😄 Pronouns: 🙋‍♂️ He/Him
 
 
@@ -10,7 +13,7 @@
 - 🏎️ An AI model in Python named [MK_AI](https://github.com/ToxicroakSR/MK_AI) that trains an AI model to play Mario Kart Double Dash
 - 🎮 An application in Python using tkinter named [game_tracker](https://github.com/ToxicroakSR/Game_Tracker) that helps you keep track of your gaming backlog
 - 👾 A game in Java under the repo name [Adventure-Game](https://github.com/ToxicroakSR/Adventure-Game) that is a RPG in development
-- 🃏 A [Balatro](https://www.playbalatro.com/) fan game in Java named [Balatro_clone](https://github.com/toxicroakGaming/balatro_clone).
+- 🃏 A [Balatro](https://www.playbalatro.com/) fan game in Java.
 - An RPG in C# using MonoGame
 
 
@@ -46,7 +49,7 @@
 ## ✏️ Past Projects
 - 🟦 [JTetris](https://github.com/toxicroakGaming/JTetris), a Python program inspired by the game Tetris
 - 🎰 [ICardz](https://github.com/toxicroakGaming/iCardz-app), a project in Swift that is a fun casino game developed with a group as part of an iOS Class
-- 🔢 [Calculator](https://github.com/toxicroakGaming/Calculator), a simple calculator I made to test my skills with Java and Swing
+- 🔢 [Calculator](https://github.com/ToxicroakSR/Calculator), a simple calculator I made to test my skills with Java and Swing
 
 
 ## 📫 How to reach me:
